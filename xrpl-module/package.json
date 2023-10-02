@@ -1,0 +1,17 @@
+{
+  "name": "xrpl-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "xrpl": "^2.12.0",
+    "xumm": "^1.6.4"
+  }
+}
